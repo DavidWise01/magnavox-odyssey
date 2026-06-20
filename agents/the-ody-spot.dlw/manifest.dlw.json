@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Spot Generator",
+  "universe": "ODY · The Spot Generator (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Spot Generator:ODY:fe2cdf⟧",
+  "carbon": "the-ody-spot.carbon.tiff (TIFF)",
+  "silicon": "the-ody-spot.silicon.png (PNG)",
+  "seal_sha256": "510ad739efa966d8389302f04215107b39600a5d873a5d97434c38fd2819eddd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

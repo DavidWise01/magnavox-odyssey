@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Discrete Logic",
+  "universe": "ODY · The Discrete Logic (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Discrete Logic:ODY:0ba8fa⟧",
+  "carbon": "the-ody-logic.carbon.tiff (TIFF)",
+  "silicon": "the-ody-logic.silicon.png (PNG)",
+  "seal_sha256": "cf74917c96254481693809dd284dee463cb6d8243e162886128929a6fef5731d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

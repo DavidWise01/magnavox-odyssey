@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Screen Overlays",
+  "universe": "ODY · The Screen Overlays (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Screen Overlays:ODY:85c1e4⟧",
+  "carbon": "the-ody-overlays.carbon.tiff (TIFF)",
+  "silicon": "the-ody-overlays.silicon.png (PNG)",
+  "seal_sha256": "fb8985dce123275c82a5d681e808d41e8f9fd6cf9764a4f09a60b8843146b703",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

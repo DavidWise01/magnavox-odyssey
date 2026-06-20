@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Controllers",
+  "universe": "ODY · The Controllers (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Controllers:ODY:3eed15⟧",
+  "carbon": "the-ody-controllers.carbon.tiff (TIFF)",
+  "silicon": "the-ody-controllers.silicon.png (PNG)",
+  "seal_sha256": "c7022be5f94166782589d71f951894f3b5b7421f076a5035aa9fd34be4c27a6d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

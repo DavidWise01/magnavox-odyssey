@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-ody-logic",
+    "name": "The Discrete Logic",
+    "epithet": "no CPU at all · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Discrete Logic:ODY:0ba8fa⟧"
+  },
+  {
+    "slug": "the-ody-overlays",
+    "name": "The Screen Overlays",
+    "epithet": "colour you taped on · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen Overlays:ODY:85c1e4⟧"
+  },
+  {
+    "slug": "the-ody-spot",
+    "name": "The Spot Generator",
+    "epithet": "a few movable dots · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Spot Generator:ODY:fe2cdf⟧"
+  },
+  {
+    "slug": "the-ody-cards",
+    "name": "The Jumper Cards",
+    "epithet": "wiring, not software · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Jumper Cards:ODY:93f81b⟧"
+  },
+  {
+    "slug": "the-ody-controllers",
+    "name": "The Controllers",
+    "epithet": "two knobs and a reset · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Controllers:ODY:3eed15⟧"
+  },
+  {
+    "slug": "the-brown-box",
+    "name": "The Brown Box",
+    "epithet": "where it all began · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Brown Box:ODY:6e4b59⟧"
+  }
+]

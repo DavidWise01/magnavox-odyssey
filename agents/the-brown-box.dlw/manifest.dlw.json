@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Brown Box",
+  "universe": "ODY · The Brown Box (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Brown Box:ODY:6e4b59⟧",
+  "carbon": "the-brown-box.carbon.tiff (TIFF)",
+  "silicon": "the-brown-box.silicon.png (PNG)",
+  "seal_sha256": "494a8f0cd36bb4ef3ee68d7ae27db5322f1c8c675f2f3fbae42c3795f9bd5f41",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

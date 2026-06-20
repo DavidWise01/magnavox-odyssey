@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Jumper Cards",
+  "universe": "ODY · The Jumper Cards (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Jumper Cards:ODY:93f81b⟧",
+  "carbon": "the-ody-cards.carbon.tiff (TIFF)",
+  "silicon": "the-ody-cards.silicon.png (PNG)",
+  "seal_sha256": "382884ae9d7f5e370889f7211ec157106e4a4de3a344ee7b4bfc1958406bf43b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

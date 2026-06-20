@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "MAGNAVOX ODYSSEY",
+  "universe": "ODY · MAGNAVOX ODYSSEY (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦MAGNAVOX ODYSSEY:ODY:1ad3b9⟧",
+  "carbon": "magnavox-odyssey.carbon.tiff (TIFF)",
+  "silicon": "magnavox-odyssey.silicon.png (PNG)",
+  "seal_sha256": "ba57e5103643b3a4f34775505fbc876385a720658d8f29fe377f27b510836454",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
