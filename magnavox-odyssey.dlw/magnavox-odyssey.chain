@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 857
+slug  : magnavox-odyssey
+seal  : ba57e5103643b3a4f34775505fbc876385a720658d8f29fe377f27b510836454
+prev  : ff704eecfe3c11ff80eff5424be35c4b42528931e6b3010a21c4b36c5fd584ff
+link  : b067fda88ed3700c0792143668e7c2318ac943e79c31d677f709b91ed89b50f7
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
